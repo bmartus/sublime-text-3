@@ -1,0 +1,5 @@
+[
+    { "keys": ["f9"], "command": "expand_fqcn" },
+    { "keys": ["f10"], "command": "find_use" },
+    { "keys": ["super+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} }
+]
