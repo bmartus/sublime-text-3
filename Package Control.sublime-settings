@@ -5,7 +5,9 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"Colorsublime",
+		"GitGutter",
 		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
 		"Material Theme",
