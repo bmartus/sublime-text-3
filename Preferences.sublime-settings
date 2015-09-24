@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Facebook.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
 	"font_face": "Fira Code",
 	"font_options":
 	[

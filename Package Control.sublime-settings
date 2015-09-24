@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -15,6 +16,8 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"PHP Companion",
-		"PHP Getters and Setters"
+		"PHP Getters and Setters",
+		"SublimeLinter",
+		"SublimeLinter-php"
 	]
 }
