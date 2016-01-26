@@ -8,6 +8,7 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Colorsublime",
+		"Emmet",
 		"GitGutter",
 		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
@@ -17,6 +18,7 @@
 		"PackageResourceViewer",
 		"PHP Companion",
 		"PHP Getters and Setters",
+		"phpfmt",
 		"SublimeLinter",
 		"SublimeLinter-php"
 	]
