@@ -7,13 +7,13 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 13,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"margin": 0,
 	"overlay_scroll_bars": "enabled",
 	"show_panel_on_build": false,

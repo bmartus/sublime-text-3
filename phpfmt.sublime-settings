@@ -1,6 +1,6 @@
 {
 	"enable_auto_align": true,
-	"php_bin": "/usr/local/bin/php",
+	"php_bin": "c:\\php7\\php.exe",
 	"psr2": true,
 	"version": 1
 }
