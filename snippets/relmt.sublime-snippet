@@ -7,7 +7,7 @@
 /**
  * Relationships morphing to this ${1:Model} model.
  *
- * @author	Andrea Marco Sartori
+ * @author	Brandon Martus
  * @return	Illuminate\Database\Eloquent\Relations\MorphTo
  */
 public function ${2:${1/(\w{1})/\L$1/}able}()

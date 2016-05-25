@@ -7,7 +7,7 @@
 /**
  * Relationship with the ${1:Model} model through the ${2:Model} model.
  *
- * @author	Andrea Marco Sartori
+ * @author	Brandon Martus
  * @return	Illuminate\Database\Eloquent\Relations\HasManyThrough
  */
 public function ${3:${1/(\w{1})/\L$1/}s}()
