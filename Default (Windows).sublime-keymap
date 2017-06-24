@@ -2,5 +2,11 @@
     { "keys": ["f9"], "command": "expand_fqcn" },
     { "keys": ["f10"], "command": "find_use" },
     { "keys": ["f7"], "command": "insert_php_constructor_property" },
-    { "keys": ["alt+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} }
+    { "keys": ["alt+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+
+    { "keys": ["ctrl+shift+t"], "command": "phpunit_test_nearest", "context": [{ "key": "setting.phpunit.keymaps" }] },
+    { "keys": ["ctrl+t"], "command": "phpunit_test_file", "context": [{ "key": "setting.phpunit.keymaps" }] },
+    { "keys": ["ctrl+shift+a"], "command": "phpunit_test_suite", "context": [{ "key": "setting.phpunit.keymaps" }] }
+
+
 ]
