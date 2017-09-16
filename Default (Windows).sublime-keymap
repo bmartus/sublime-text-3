@@ -4,9 +4,9 @@
     { "keys": ["f7"], "command": "insert_php_constructor_property" },
     { "keys": ["alt+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 
-    { "keys": ["ctrl+shift+t"], "command": "phpunit_test_nearest", "context": [{ "key": "setting.phpunit.keymaps" }] },
-    { "keys": ["ctrl+t"], "command": "phpunit_test_file", "context": [{ "key": "setting.phpunit.keymaps" }] },
-    { "keys": ["ctrl+shift+a"], "command": "phpunit_test_suite", "context": [{ "key": "setting.phpunit.keymaps" }] },
+    { "keys": ["alt+t"], "command": "phpunit_test_nearest" },
+    { "keys": ["alt+shift+t"], "command": "phpunit_test_file" },
+    { "keys": ["alt+shift+a"], "command": "phpunit_test_suite" },
 
     { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]
