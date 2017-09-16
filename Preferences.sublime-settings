@@ -16,6 +16,7 @@
 	"line_padding_top": 2,
 	"margin": 0,
 	"overlay_scroll_bars": "enabled",
+	"phpunit.composer": false,
 	"rulers":
 	[
 		80
@@ -23,8 +24,5 @@
 	"show_panel_on_build": true,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"use_simple_full_screen": true,
-
-	"phpunit.composer": false,
-
+	"use_simple_full_screen": true
 }
