@@ -6,7 +6,7 @@
 
     { "keys": ["ctrl+shift+t"], "command": "phpunit_test_nearest", "context": [{ "key": "setting.phpunit.keymaps" }] },
     { "keys": ["ctrl+t"], "command": "phpunit_test_file", "context": [{ "key": "setting.phpunit.keymaps" }] },
-    { "keys": ["ctrl+shift+a"], "command": "phpunit_test_suite", "context": [{ "key": "setting.phpunit.keymaps" }] }
+    { "keys": ["ctrl+shift+a"], "command": "phpunit_test_suite", "context": [{ "key": "setting.phpunit.keymaps" }] },
 
-
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]
