@@ -21,11 +21,11 @@
 		"PHP Completions Kit",
 		"PHP Getters and Setters",
 		"phpfmt",
-		"phpunitkit",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-php",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
+		"PHPUnitKit"
 	]
 }
