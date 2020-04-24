@@ -7,7 +7,7 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 10,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -16,7 +16,7 @@
 	"line_padding_top": 2,
 	"margin": 0,
 	"overlay_scroll_bars": "enabled",
-	"phpunit.composer": false,
+	"phpunit.composer": true,
 	"rulers":
 	[
 		80

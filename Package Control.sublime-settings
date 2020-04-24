@@ -5,11 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Colorsublime",
 		"Delete Lines",
 		"Emmet",
+		"FileBrowser",
 		"GitGutter",
 		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
@@ -21,11 +23,11 @@
 		"PHP Completions Kit",
 		"PHP Getters and Setters",
 		"phpfmt",
+		"PHPUnitKit",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-php",
-		"Vue Syntax Highlight",
-		"PHPUnitKit"
+		"Vue Syntax Highlight"
 	]
 }

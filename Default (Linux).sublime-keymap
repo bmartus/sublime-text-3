@@ -8,5 +8,7 @@
     { "keys": ["alt+shift+t"], "command": "phpunit_test_file" },
     { "keys": ["alt+shift+a"], "command": "phpunit_test_suite" },
 
+    { "keys": ["ctrl+k", "ctrl+b"], "command": "dired", "args": { "immediate": true, "project": true, "other_group": "right" } },
+
     { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]
