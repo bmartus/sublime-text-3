@@ -1,3 +1,10 @@
 {
-    "color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme"
+	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+	"dired_to_copy":
+	[
+		"/home/bmartus/Code/frames/resources/sass/account/"
+	],
+	"dired_to_move":
+	[
+	]
 }
